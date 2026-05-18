@@ -1,3 +1,3 @@
-const MAX_CAPACITY = 100;
+const MAX_CAPACITY = 500;
 
 document.getElementById("result").innerHTML = MAX_CAPCITY;
